@@ -16,6 +16,7 @@ PDF_FILES=$(patsubst $(SRC_DIR)/%.md,$(OUT_DIR)/%.pdf,$(MD_FILES))
 
 # Default Makefile target: generate all PDFs
 all: $(PDF_FILES)
+	@echo "All PDFs were generated!"
 
 # Rule to generate a PDF from a specific Markdown file
 # $< = input Markdown file
