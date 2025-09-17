@@ -10,16 +10,18 @@ The goal is to have a **simple, replicable, and automatable** system that works 
 ## 📁 Project Structure
 
 ```
-src/                 <- Markdown files for resumes (you create the subfolders and files)
-  ├─ java/index.md   <- Java Resume (example)
-  ├─ python/index.md <- Python Resume (example)
-  └─ nodejs/index.md <- NodeJS Resume (example)
-out/                 <- Automatically generated PDFs
-  ├─ java/index.pdf
+src/                   <- Markdown files for resumes (you create the subfolders and files)
+  ├─ resume_1.md       <- Resume (example)
+  ├─ java/resume.md    <- Java Resume (example)
+  ├─ python/index.md   <- Python Resume (example)
+  └─ nodejs/resume2.md <- NodeJS Resume (example)
+out/                   <- Automatically generated PDFs
+  ├─ resume_1.pdf
+  ├─ java/resume.pdf
   ├─ python/index.pdf
-  └─ nodejs/index.pdf
-template.tex         <- LaTeX template for Pandoc
-Makefile             <- PDF generation automation
+  └─ nodejs/resume2.pdf
+template.tex           <- LaTeX template for Pandoc
+Makefile               <- PDF generation automation
 ```
 
 > **Note:** The folder structure inside `src/` is completely flexible.
