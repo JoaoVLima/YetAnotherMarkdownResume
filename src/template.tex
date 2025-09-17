@@ -1,0 +1,65 @@
+% Use 'article' class, suitable for simple documents like resumes
+% 12pt font size and A4 paper.
+\documentclass[12pt,a4paper]{article}
+
+% Encoding & Fonts
+% UTF-8 input encoding, necessary for non-ASCII characters.
+\usepackage[utf8]{inputenc}
+
+% Output font encoding: T1 ensures proper hyphenation and accented characters.
+\usepackage[T1]{fontenc}
+
+% Sets default font to sans-serif (Helvetica)
+% Good for ATS readability.
+\usepackage{helvet}
+\renewcommand{\familydefault}{\sfdefault}
+
+% Layout
+% Sets 1cm margins all around
+% ATS doesn’t care about margin size
+% 2cm is usually safer.
+\usepackage[margin=1cm]{geometry}
+
+% Adds space between paragraphs, improves readability
+\setlength{\parskip}{6pt}
+
+% No paragraph indentation, common in resumes
+\setlength{\parindent}{0pt}
+
+% Links
+% Makes links clickable and blue
+% colorlinks=true is necessary for blue links instead of boxes
+% citecolor is harmless here, although resumes rarely use citations
+\usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
+
+% Remove section numbering
+\setcounter{secnumdepth}{0}
+
+% Remove page numbers
+\pagenumbering{gobble}
+
+% Better Markdown rendering
+% Provides control over list spacing and bullets
+\usepackage{enumitem}
+
+% Controls spacing and formatting of section/subsection headings
+\usepackage{titlesec}
+
+% Heading spacing
+% Section headings: bold, Large font, no numbering
+\titleformat{\section}{\bfseries\Large}{}{0em}{}
+
+% Subsection headings: bold, normal size
+\titleformat{\subsection}{\bfseries\normalsize}{}{0em}{}
+
+% Section spacing: left=0pt, before=12pt, after=6pt
+\titlespacing*{\section}{0pt}{12pt}{6pt}
+
+% Subsection spacing: left=0pt, before=8pt, after=4pt
+\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+
+
+% Pandoc inserts Markdown content here
+\begin{document}
+    $body$
+\end{document}

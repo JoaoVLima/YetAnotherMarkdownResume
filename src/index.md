@@ -1,21 +1,8 @@
-<h1 align="center" id="joaolima">
-    João Lima
-    (<a style="font-size: 25px" href="https://www.limadeveloper.com" rel="noopener noreferrer" target="_blank">limadeveloper.com</a>)
-</h1>
-
-&nbsp;
-<i class="fa-brands fa-whatsapp" style="color: #25D366"></i>
+# João Lima
 [+55 (41) 99627-7071](https://api.whatsapp.com/send?phone=5541996277071&text=Hello%20João%20Lima%2C%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%20When%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
-&nbsp;•&nbsp;
-<i class="fa-regular fa-envelope" style="color: #D44638"></i>
 [joao@limadeveloper.com](mailto:joao@limadeveloper.com?subject=Collaboration%20Opportunity%20-%20Initial%20Conversation&body=Hello%20João%20Lima%2C%0D%0A%0D%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%0D%0AWhen%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
-&nbsp;•&nbsp;
-<i class="fa-brands fa-linkedin" style="color: #0e76a8"></i>
 [linkedin.com/in/limadeveloper](https://www.linkedin.com/in/limadeveloper)
-&nbsp;•&nbsp;
-<i class="fa-brands fa-github"></i>
 [github.com/JoaoVLima](https://www.github.com/JoaoVLima)
-&nbsp;
 
 ## Professional Summary
 
