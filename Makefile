@@ -5,7 +5,7 @@ SRC_DIR=src
 OUT_DIR=out
 
 # LaTeX template used to generate the PDF
-TEMPLATE=$(SRC_DIR)/template.tex
+TEMPLATE=template.tex
 
 # Find all Markdown files (*.md) inside SRC_DIR and subdirectories
 MD_FILES=$(shell find $(SRC_DIR) -name "*.md")
