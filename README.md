@@ -1,72 +1,72 @@
 # 📝 Yet Another Markdown Resume
 
-**Yet Another Markdown Resume** é um template para gerenciar múltiplos currículos usando **Markdown**.
-O projeto gera PDFs a partir de Markdown e permite que você organize diferentes currículos para diferentes vagas ou tecnologias.
+**Yet Another Markdown Resume** is a template for managing multiple resumes using **Markdown**.
+The project generates PDFs from Markdown and allows you to organize different resumes for different jobs or technologies.
 
-O objetivo é ter um sistema **simples, replicável e automatizável**, que funcione offline e online, e que possa ser facilmente adaptado por qualquer pessoa no GitHub.
+The goal is to have a **simple, replicable, and automatable** system that works offline and online and can be easily adapted by anyone on GitHub.
 
 ---
 
-## 📁 Estrutura do projeto
+## 📁 Project Structure
 
 ```
-src/                 <- Markdown dos currículos (você mesmo cria as subpastas e arquivos)
-  ├─ java/index.md   <- Currículo Java (exemplo)
-  ├─ python/index.md <- Currículo Python (exemplo)
-  └─ nodejs/index.md <- Currículo NodeJS (exemplo)
-out/                 <- PDFs gerados automaticamente
+src/                 <- Markdown files for resumes (you create the subfolders and files)
+  ├─ java/index.md   <- Java Resume (example)
+  ├─ python/index.md <- Python Resume (example)
+  └─ nodejs/index.md <- NodeJS Resume (example)
+out/                 <- Automatically generated PDFs
   ├─ java/index.pdf
   ├─ python/index.pdf
   └─ nodejs/index.pdf
-template.tex         <- Template LaTeX para Pandoc
-Makefile             <- Automação de geração de PDFs
+template.tex         <- LaTeX template for Pandoc
+Makefile             <- PDF generation automation
 ```
 
-> **Nota:** A estrutura de pastas dentro de `src/` é totalmente flexível.
-> Você pode criar subpastas como quiser (ex.: `go/`, `frontend/`, `devops/`) e colocar os arquivos Markdown correspondentes.
-> O Makefile irá gerar os PDFs na mesma estrutura dentro de `out/`.
+> **Note:** The folder structure inside `src/` is completely flexible.
+> You can create subfolders as you like (e.g., `go/`, `frontend/`, `devops/`) and place the corresponding Markdown files.
+> The Makefile will generate the PDFs in the same structure inside `out/`.
 
 ---
 
-## ⚡ Funcionalidades
+## ⚡ Features
 
-* Gerenciamento de múltiplos currículos em Markdown.
-* Geração automática de PDFs com Pandoc e LaTeX.
-* Base para vários tipos de automações.
+* Manage multiple resumes in Markdown.
+* Automatically generate PDFs using Pandoc and LaTeX.
+* Base for multiple types of automations.
 
 ---
 
-## 🚀 Como usar
+## 🚀 How to Use
 
-### 1️⃣ Usando como template do GitHub
+### 1️⃣ Using as a GitHub Template
 
-Clique no botão **"Use this template"** no GitHub para criar seu próprio repositório baseado neste projeto.
-Isso cria uma cópia pronta para você começar a editar sem afetar o projeto original.
+Click the **"Use this template"** button on GitHub to create your own repository based on this project.
+This creates a ready-to-edit copy without affecting the original project.
 
 ### 2️⃣ Linux
 
-1. Clone o repositório:
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/JoaoVLima/YetAnotherMarkdownResume.git
 cd YetAnotherMarkdownResume
 ```
 
-2. Instale Pandoc e LaTeX:
+2. Install Pandoc and LaTeX:
 
 ```bash
 sudo apt-get install pandoc texlive-xetex
 ```
 
-3. Edite os arquivos Markdown em `src/`.
+3. Edit the Markdown files in `src/`.
 
-4. Gere os PDFs:
+4. Generate the PDFs:
 
 ```bash
 make
 ```
 
-5. Limpar PDFs gerados:
+5. Clean generated PDFs:
 
 ```bash
 make clean
@@ -74,39 +74,39 @@ make clean
 
 ### 3️⃣ Windows
 
-1. Clone o repositório (pode usar Git Bash ou PowerShell):
+1. Clone the repository (use Git Bash or PowerShell):
 
 ```powershell
 git clone https://github.com/JoaoVLima/YetAnotherMarkdownResume.git
 cd YetAnotherMarkdownResume
 ```
 
-2. Instale [Pandoc para Windows](https://pandoc.org/installing.html) e uma distribuição LaTeX como [MiKTeX](https://miktex.org/download).
+2. Install [Pandoc for Windows](https://pandoc.org/installing.html) and a LaTeX distribution like [MiKTeX](https://miktex.org/download).
 
-3. Edite os arquivos Markdown em `src/`.
+3. Edit the Markdown files in `src/`.
 
-4. Abra Git Bash ou PowerShell e rode:
+4. Open Git Bash or PowerShell and run:
 
 ```powershell
 make
 ```
 
-5. Para limpar PDFs gerados:
+5. To clean generated PDFs:
 
 ```powershell
 make clean
 ```
 
-> **Nota:** No Windows, você pode precisar do [GNU Make para Windows](https://www.gnu.org/software/make/) ou usar Git Bash que já inclui o `make`.
+> **Note:** On Windows, you may need [GNU Make for Windows](https://www.gnu.org/software/make/) or use Git Bash, which already includes `make`.
 
 ---
 
-## 🎨 Personalização de estilo
+## 🎨 Style Customization
 
-* Para alterar fonte, margens ou layout, edite o CSS ou o `template.tex`.
+* To change fonts, margins, or layout, edit the CSS or `template.tex`.
 
 ---
 
-## 📄 Licença
+## 📄 License
 
 [MIT License © João Lima](LICENSE)
