@@ -32,33 +32,50 @@
 % citecolor is harmless here, although resumes rarely use citations
 \usepackage[colorlinks=true, linkcolor=blue, urlcolor=blue, citecolor=blue]{hyperref}
 
-% Remove section numbering
+% Force all links (including mailto: and tel:) to use sans-serif
+\usepackage{url}
+\urlstyle{same}
+
+% Remove section numbering and page numbers
 \setcounter{secnumdepth}{0}
 
 % Remove page numbers
 \pagenumbering{gobble}
 
-% Better Markdown rendering
+% Markdown list support
 % Provides control over list spacing and bullets
 \usepackage{enumitem}
+
+% Define \tightlist to avoid Pandoc error
+\providecommand{\tightlist}{%
+    \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 % Controls spacing and formatting of section/subsection headings
 \usepackage{titlesec}
 
 % Heading spacing
-% Section headings: bold, Large font, no numbering
-\titleformat{\section}{\bfseries\Large}{}{0em}{}
+% Section headings: bold, bigger font
+\titleformat{\section}{\Huge}{}{0em}{}
 
-% Subsection headings: bold, normal size
-\titleformat{\subsection}{\bfseries\normalsize}{}{0em}{}
+% Subsection headings: bold, slightly smaller
+\titleformat{\subsection}{\LARGE}{}{0em}{}
 
-% Section spacing: left=0pt, before=12pt, after=6pt
-\titlespacing*{\section}{0pt}{12pt}{6pt}
+% Subsubsection headings: normal bold, smaller
+\titleformat{\subsubsection}{\large}{}{0em}{}
 
-% Subsection spacing: left=0pt, before=8pt, after=4pt
-\titlespacing*{\subsection}{0pt}{8pt}{4pt}
+% Section spacing: {left}{before}{after}
+\titlespacing*{\section}{0pt}{16pt}{0pt}
 
+% Subsection spacing: {left}{before}{after}
+\titlespacing*{\subsection}{0pt}{12pt}{0pt}
 
+% Subsection spacing: {left}{before}{after}
+\titlespacing*{\subsubsection}{0pt}{8pt}{0pt}
+
+% Optional: make all text left-aligned (avoids justification stretching)
+\raggedright
+
+% Document body
 % Pandoc inserts Markdown content here
 \begin{document}
     $body$
