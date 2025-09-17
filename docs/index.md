@@ -43,7 +43,7 @@ I contributed to a dynamic team focused on **developing and maintaining web appl
 
 I worked on **implementing new features and creating new projects** using *Python*, *React*, *Django*, *NodeJS*, and *PostgreSQL* and *MongoDB* databases, as well as managing ETL in *Pentaho*.
 I developed new features and maintained the *Business Intelligence (BI)* system, *BoldBI*.
-I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain nice data, enabling the generation of daily reports.
+I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain data, enabling the generation of daily reports.
 
 ### Back-End Programmer | *Inteliger - Software Development*
 *2021 - 2023* | [Inteliger](https://inteliger.com.br/)
