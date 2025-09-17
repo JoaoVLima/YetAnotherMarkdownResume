@@ -1,54 +1,45 @@
-# João Lima
-[+55 (41) 99627-7071](tel:5541996277071)
-[joao@limadeveloper.com](mailto:joao@limadeveloper.com)
-[linkedin.com/in/limadeveloper](https://www.linkedin.com/in/limadeveloper)
-[github.com/JoaoVLima](https://www.github.com/JoaoVLima)
+# Tony Stark
+[starkindustries.com](https://starkindustries.com)  
+[github.com/IronMan](https://github.com/IronMan) |
+[linkedin.com/in/tonystark](https://linkedin.com/in/tonystark)  
+[+1 (212) 555-IRON](tel:+12125554766) |
+[tony@starkindustries.com](mailto:tony@starkindustries.com)
 
-## Professional Summary
+### **Resumo**
+Engenheiro, empreendedor e super-herói inovador, com ampla experiência em desenvolvimento de tecnologias de ponta, sistemas de IA e soluções de defesa. Habilidade em integração hardware-software, robótica e computação de alto desempenho. Forte experiência em P&D, aeroespacial e soluções energéticas. Apaixonado por criar tecnologias escaláveis, mentorar equipes e proteger o mundo com inteligência e engenharia avançadas.
 
-I am **João Victor de Lima**, a software developer based in Curitiba/BR, with hands-on experience in **backend and frontend projects**, using technologies such as **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, among others. I have worked with **distributed systems**, integrations via REST APIs, **ETL** tools, and **Linux**-based environments. I am constantly improving my skills in **microservices**, **CI/CD**, and **cloud (AWS/GCP)**.
+### **Experiência Profissional**
 
-## ical Experience / Skills
+###### **_CEO & Engenheiro-Chefe_** | [Stark Industries](https://starkindustries.com) | 2008 – Presente
+- Liderou a transformação da Stark Industries, de fabricante de armas convencional para energia limpa, IA e tecnologias avançadas.
+- Projetou e implementou a série de armaduras Iron Man (Mark I–LXXXV) com IA, sistemas de voo e armamentos avançados.
+- Gerenciou equipes globais de engenharia, prototipando tecnologias de defesa e civis de última geração.
+- **_Tecnologias_:** Sistemas de IA (J.A.R.V.I.S., F.R.I.D.A.Y.), Robótica, Materiais Avançados, Tecnologia do Reator Arc
 
-- **Django** (*Python*): I have approximately **4 years of professional experience with Django**, working on developing features for *e-commerces* and *Business Intelligence (BI)* platforms.
+###### **_Vingador / Consultor Estratégico_** | [The Avengers](https://marvel.fandom.com/wiki/Avengers) | 2010 – Presente
+- Forneceu liderança técnica em missões de proteção da Terra contra ameaças extraterrestres e humanas.
+- Desenvolveu, implementou e manteve armaduras de combate e tecnologias táticas para uso da equipe.
+- Colaborou em equipes multidisciplinares para defesa interplanetária e operações de alto risco.
+- **_Tecnologias_:** Armaduras Potencializadas, Interface Holográfica, Tecnologia Quântica, Sistemas de Voo
 
-- **PostgreSQL**: I have extensive experience with this relational database system, using it daily for about **4 years** for efficient data manipulation.
+###### **_Inventor & Inovador_** | Projetos Freelance / P&D | 2000 – 2008
+- Criou versões iniciais do Reator Arc e soluções de energia limpa.
+- Desenvolveu sistemas de armas e protótipos de IA antes da transformação do foco da Stark Industries.
+- Publicou designs e protótipos em robótica avançada e nanotecnologia.
+- **_Tecnologias_:** Reator Arc, Nanotecnologia, Engenharia de Armas, Inteligência Artificial
 
-- **Other Technologies**: Experience with *Redis* for cache management, *Pentaho (ETL)* for data processing, building *REST APIs*, documentation with *Swagger*, knowledge in *Git*, and skills in *Java*, *MySQL*, *JavaScript*, *TypeScript*, *ThreeJS*, *HTML*, *CSS*, *Bootstrap*, *ViteJS*, and *Linux*.
+### **Formação**
 
-- **Languages**: English (Advanced), Brazilian Portuguese (Native).
+- B.Sc. em **Engenharia e Física** | [MIT](https://www.mit.edu) | 1990 – 1995
+- Autodidata em **IA, Robótica e Mecânica Quântica** | Diversos Laboratórios e Pesquisas Privadas | 1995 – Presente
 
-## Professional Experience
+### **Habilidades**
 
-### Front-End Developer | *FidenTech*
-*2025 - present* | [FidenTech](https://www.fidentech.com)
-
-I contributed to a dynamic team focused on **developing and maintaining web applications** using *Oracle APEX*. I developed solutions for projects that integrated *JavaScript*, *HTML*, and *CSS* to deliver responsive and intuitive interfaces, in addition to enhancing application functionality.
-
-### Software Engineer | *Ravpro*
-*2024 - 2025* | [Ravpro](https://ravpro.com.br/)
-
-I worked on **implementing new features and creating new projects** using *Python*, *React*, *Django*, *NodeJS*, and *PostgreSQL* and *MongoDB* databases, as well as managing ETL in *Pentaho*.
-I developed new features and maintained the *Business Intelligence (BI)* system, *BoldBI*.
-I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain data, enabling the generation of daily reports.
-
-### Back-End Programmer | *Inteliger - Software Development*
-*2021 - 2023* | [Inteliger](https://inteliger.com.br/)
-
-At Inteliger, I developed significant skills in technologies such as *Python*, *Django*, *PostgreSQL*, *Redis*, and *Pentaho (ETL)*.
-In addition, I improved my ability to **solve problems effectively**, as well as establish **smooth communication with teammates and clients**, following the principles of the agile *Scrum* methodology.
-
-I had the opportunity to participate in **more than 10 projects**, ranging from payment and delivery service integrations to **developing a logging and order history system**, as well as **training new developers** joining the company.
-
-## Academic Experience
-
-### Bachelor’s in Computer Science | *Pontifical Catholic University of Paraná*
-*2019 - 2025* | [PUCPR](https://www.pucpr.br/)
-
-During my time at PUCPR, I acquired **solid knowledge in Computer Science** and enhanced my **software development skills**.
-Studying technologies and algorithmic solutions around *Python*, *Java*, *Object-Oriented Programming*, and *Information Security*.
-
-### Technical Degree in Computer Science | *Irmão Mário Cristóvão Professional Education Center*
-*2015 - 2018* | [TECPUC](http://www.tecpuc.com.br/)
-
-My Technical Degree in Computer Science provided me with a solid foundation in several technologies, including *HTML*, *CSS*, *PHP*, *SQL*, *Network Infrastructure*, *Python*, and *Linux*.
+- **_Idiomas_:** Inglês (Nativo), Fluente em Interfaces de IA
+- **_Programação / Engenharia_:** Python, C++, Sistemas de IA, Robótica, Eletrônica
+- **_Frameworks / Tecnologias_:** Armaduras Iron Man (Mark I–LXXXV), J.A.R.V.I.S., F.R.I.D.A.Y., Sistemas Holográficos
+- **_Bancos de Dados / Sistemas_:** Bancos de Dados Tecnológicos Globais, Integração de IA Stark
+- **_Dados / Analytics_:** Modelagem Preditiva, Simulações Táticas, Análise de Defesa
+- **_APIs / Integração_:** Integração de IA, Interfaces Holográficas, Controle de Voo
+- **_Cloud / DevOps_:** Stark Cloud, Sistemas em Rede Global, Computação de Alto Desempenho
+- **_Soft Skills_:** Liderança, Inovação, Planejamento Estratégico, Relações Públicas, Colaboração em Equipe

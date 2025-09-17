@@ -1,54 +1,45 @@
-# João Lima
-[+55 (41) 99627-7071](https://api.whatsapp.com/send?phone=5541996277071&text=Hello%20João%20Lima%2C%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%20When%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
-[joao@limadeveloper.com](mailto:joao@limadeveloper.com?subject=Collaboration%20Opportunity%20-%20Initial%20Conversation&body=Hello%20João%20Lima%2C%0D%0A%0D%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%0D%0AWhen%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
-[linkedin.com/in/limadeveloper](https://www.linkedin.com/in/limadeveloper)
-[github.com/JoaoVLima](https://www.github.com/JoaoVLima)
+# Tony Stark
+[starkindustries.com](https://starkindustries.com)  
+[github.com/IronMan](https://github.com/IronMan) |
+[linkedin.com/in/tonystark](https://linkedin.com/in/tonystark)  
+[+1 (212) 555-IRON](tel:+12125554766) |
+[tony@starkindustries.com](mailto:tony@starkindustries.com)
 
-## Professional Sum
+### **Summary**
+Innovative Engineer, Entrepreneur, and Superhero with extensive experience in cutting-edge technology development, AI systems, and defense solutions. Skilled in hardware-software integration, robotics, and high-performance computing. Strong background in R&D, aerospace, and energy solutions. Passionate about creating scalable tech, mentoring teams, and protecting the world with advanced intelligence and engineering.
 
-I am **João Victor de Lima**, a software developer based in Curitiba/BR, with hands-on experience in **backend and frontend projects**, using technologies such as **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, among others. I have worked with **distributed systems**, integrations via REST APIs, **ETL** tools, and **Linux**-based environments. I am constantly improving my skills in **microservices**, **CI/CD**, and **cloud (AWS/GCP)**.
+### **Work Experience**
 
-## Technical Experience / Skills
+###### **_CEO & Lead Engineer_** | [Stark Industries](https://starkindustries.com) | 2008 – Present
+- Led the transformation of Stark Industries from conventional weapons manufacturing to clean energy, AI, and advanced tech.
+- Designed and deployed the Iron Man suit series (Mark I–LXXXV) with AI, flight systems, and advanced weaponry.
+- Managed global engineering teams, prototyping next-gen defense and civilian technologies.
+- **_Stack_:** AI Systems (J.A.R.V.I.S., F.R.I.D.A.Y.), Robotics, Advanced Materials, Arc Reactor Tech
 
-- **Django** (*Python*): I have approximately **4 years of professional experience with Django**, working on developing features for *e-commerces* and *Business Intelligence (BI)* platforms.
+###### **_Avenger / Strategic Consultant_** | [The Avengers](https://marvel.fandom.com/wiki/Avengers) | 2010 – Present
+- Provided technical leadership in missions protecting Earth from extraterrestrial and human threats.
+- Developed, implemented, and maintained advanced combat suits and tactical technologies for team use.
+- Collaborated in multi-disciplinary teams for interstellar defense and high-stakes operations.
+- **_Stack_:** Powered Armor, Holographic UI, Quantum Tech, Flight Systems
 
-- **PostgreSQL**: I have extensive experience with this relational database system, using it daily for about **4 years** for efficient data manipulation.
+###### **_Inventor & Innovator_** | Freelance / R&D Projects | 2000 – 2008
+- Created early versions of the Arc Reactor and clean energy solutions.
+- Developed weapons systems and AI prototypes prior to transforming Stark Industries focus.
+- Published designs and prototypes for advanced robotics and nanotechnology.
+- **_Stack_:** Arc Reactor, Nanotechnology, Weapons Engineering, Artificial Intelligence
 
-- **Other Technologies**: Experience with *Redis* for cache management, *Pentaho (ETL)* for data processing, building *REST APIs*, documentation with *Swagger*, knowledge in *Git*, and skills in *Java*, *MySQL*, *JavaScript*, *TypeScript*, *ThreeJS*, *HTML*, *CSS*, *Bootstrap*, *ViteJS*, and *Linux*.
+### **Education**
 
-- **Languages**: English (Advanced), Brazilian Portuguese (Native).
+- B.Sc. in **Engineering & Physics** | [MIT](https://www.mit.edu) | 1990 – 1995
+- Self-Taught in **AI, Robotics, and Quantum Mechanics** | Various Labs and Private Research | 1995 – Present
 
-## Professional Experience
+### **Skills**
 
-### Front-End Developer | *FidenTech*
-*2025 - present* | [FidenTech](https://www.fidentech.com)
-
-I contributed to a dynamic team focused on **developing and maintaining web applications** using *Oracle APEX*. I developed solutions for projects that integrated *JavaScript*, *HTML*, and *CSS* to deliver responsive and intuitive interfaces, in addition to enhancing application functionality.
-
-### Software Engineer | *Ravpro*
-*2024 - 2025* | [Ravpro](https://ravpro.com.br/)
-
-I worked on **implementing new features and creating new projects** using *Python*, *React*, *Django*, *NodeJS*, and *PostgreSQL* and *MongoDB* databases, as well as managing ETL in *Pentaho*.
-I developed new features and maintained the *Business Intelligence (BI)* system, *BoldBI*.
-I worked on **integrating systems, such as Dealernet and VHSYS**, to obtain data, enabling the generation of daily reports.
-
-### Back-End Programmer | *Inteliger - Software Development*
-*2021 - 2023* | [Inteliger](https://inteliger.com.br/)
-
-At Inteliger, I developed significant skills in technologies such as *Python*, *Django*, *PostgreSQL*, *Redis*, and *Pentaho (ETL)*.
-In addition, I improved my ability to **solve problems effectively**, as well as establish **smooth communication with teammates and clients**, following the principles of the agile *Scrum* methodology.
-
-I had the opportunity to participate in **more than 10 projects**, ranging from payment and delivery service integrations to **developing a logging and order history system**, as well as **training new developers** joining the company.
-
-## Academic Experience
-
-### Bachelor’s in Computer Science | *Pontifical Catholic University of Paraná*
-*2019 - 2025* | [PUCPR](https://www.pucpr.br/)
-
-During my time at PUCPR, I acquired **solid knowledge in Computer Science** and enhanced my **software development skills**.
-Studying technologies and algorithmic solutions around *Python*, *Java*, *Object-Oriented Programming*, and *Information Security*.
-
-### Technical Degree in Computer Science | *Irmão Mário Cristóvão Professional Education Center*
-*2015 - 2018* | [TECPUC](http://www.tecpuc.com.br/)
-
-My Technical Degree in Computer Science provided me with a solid foundation in several technologies, including *HTML*, *CSS*, *PHP*, *SQL*, *Network Infrastructure*, *Python*, and *Linux*.
+- **_Languages_:** English (Native), Fluent in Tech & AI Interfaces
+- **_Programming / Engineering_:** Python, C++, AI Systems, Robotics, Electronics
+- **_Frameworks / Tech_:** Iron Man Armor (Mark I–LXXXV), J.A.R.V.I.S., F.R.I.D.A.Y., Holographic Systems
+- **_Databases / Systems_:** Global Tech Databases, Stark AI Integration
+- **_Data / Analytics_:** Predictive Modeling, Tactical Simulations, Defense Analytics
+- **_APIs / Integration_:** AI Integration, Holographic Interfaces, Flight Control Systems
+- **_Cloud / DevOps_:** Stark Cloud, Global Networked Systems, High-Performance Computing
+- **_Soft Skills_:** Leadership, Innovation, Strategic Planning, Public Relations, Team Collaboration

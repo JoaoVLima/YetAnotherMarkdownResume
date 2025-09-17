@@ -1,1 +1,1 @@
-python
+# javascript version 1
