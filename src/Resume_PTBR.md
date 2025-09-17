@@ -1,6 +1,6 @@
 # João Lima
-[+55 (41) 99627-7071](https://api.whatsapp.com/send?phone=5541996277071&text=Hello%20João%20Lima%2C%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%20When%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
-[joao@limadeveloper.com](mailto:joao@limadeveloper.com?subject=Collaboration%20Opportunity%20-%20Initial%20Conversation&body=Hello%20João%20Lima%2C%0D%0A%0D%0AI%20was%20reviewing%20your%20resume%20and%20would%20like%20to%20get%20in%20touch%20to%20discuss%20a%20possible%20job%20opportunity.%0D%0AWhen%20you%20are%20available%20for%20a%20conversation%2C%20please%20let%20me%20know%20and%20we%20will%20schedule%20a%20call.%20%F0%9F%98%80)
+[+55 (41) 99627-7071](tel:5541996277071)
+[joao@limadeveloper.com](mailto:joao@limadeveloper.com)
 [linkedin.com/in/limadeveloper](https://www.linkedin.com/in/limadeveloper)
 [github.com/JoaoVLima](https://www.github.com/JoaoVLima)
 
@@ -8,7 +8,7 @@
 
 I am **João Victor de Lima**, a software developer based in Curitiba/BR, with hands-on experience in **backend and frontend projects**, using technologies such as **Python (Django)**, **JavaScript/TypeScript**, **PostgreSQL**, **NodeJS**, among others. I have worked with **distributed systems**, integrations via REST APIs, **ETL** tools, and **Linux**-based environments. I am constantly improving my skills in **microservices**, **CI/CD**, and **cloud (AWS/GCP)**.
 
-## Technical Experience / Skills
+## ical Experience / Skills
 
 - **Django** (*Python*): I have approximately **4 years of professional experience with Django**, working on developing features for *e-commerces* and *Business Intelligence (BI)* platforms.
 
