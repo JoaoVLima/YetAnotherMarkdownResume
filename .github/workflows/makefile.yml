@@ -19,6 +19,3 @@ jobs:
       
     - name: Generating pdfs
       run: make
-
-    - name: Run Clean
-      run: make clean
