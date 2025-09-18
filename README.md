@@ -99,7 +99,7 @@ make
 make clean
 ```
 
-> **Note:** On Windows, you may need [GNU Make for Windows](https://www.gnu.org/software/make/) or use Git Bash, which already includes `make`.
+> **Note:** On Windows, you may need [GNU Make for Windows](https://gnuwin32.sourceforge.net/packages/make.htm) or use Git Bash, which already includes `make`.
 
 ---
 
