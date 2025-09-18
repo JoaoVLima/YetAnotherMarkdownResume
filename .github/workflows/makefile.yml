@@ -2,20 +2,34 @@ name: Makefile CI
 
 on:
   push:
-    branches: [ "main" ]
+    branches:
+    - "main"
   pull_request:
-    branches: [ "main" ]
+    branches:
+    - "main"
+  workflow_dispatch:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Install dependencies
       run: sudo apt-get install pandoc texlive-xetex 
       
     - name: Generating pdfs
       run: make
+      
+    - name: Commit and push PDFs
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add *.pdf
+        if ! git diff --cached --quiet; then
+          git commit -m "Update generated PDFs [skip ci]"
+          git push origin main
+        fi
